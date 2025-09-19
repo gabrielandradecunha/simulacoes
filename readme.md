@@ -16,3 +16,10 @@ Este repositório reúne alguns exemplos de simulações de sensores utilizando 
 - [Simulação Sensor Infravermelho no Tinkercad](https://www.tinkercad.com/things/1NYBqpoMoEY-sensorinfravermelho)  
 
 ---
+
+
+## Sensor de Movimento
+
+- [Simulação de Sensor Movimento no Cirkit Designer](https://app.cirkitdesigner.com/project/9af7d284-ae20-4c26-8040-ef2a3614cda0)  
+
+---
