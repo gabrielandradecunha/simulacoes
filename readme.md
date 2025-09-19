@@ -1,6 +1,4 @@
-# Repositório de Simulações Arduino
-
-Este repositório reúne alguns exemplos de simulações de sensores utilizando diferentes plataformas online
+# Repositório de Simulações ESP#@
 
 ---
 
