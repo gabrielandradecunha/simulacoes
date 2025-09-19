@@ -1,4 +1,4 @@
-# Repositório de Simulações ESP#@
+# Repositório de Simulações ESP32
 
 ---
 
@@ -19,5 +19,12 @@
 ## Sensor de Movimento
 
 - [Simulação de Sensor Movimento no Cirkit Designer](https://app.cirkitdesigner.com/project/9af7d284-ae20-4c26-8040-ef2a3614cda0)  
+
+---
+
+
+## Sensor de Movimento + Temperatura e Umidade
+
+- [Simulação de Sensor Movimento + Temperatura e Umidade no Cirkit Designer](https://app.cirkitdesigner.com/project/78800d9b-bcfe-4c3e-ae52-2914f53e265a) 
 
 ---
