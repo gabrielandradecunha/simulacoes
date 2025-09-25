@@ -1,4 +1,4 @@
-# Repositório de Simulações ESP32
+# Repositório de Simulações de sensores ESP32
 
 ---
 
